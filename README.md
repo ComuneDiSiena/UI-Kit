@@ -1,4 +1,4 @@
-# Repository file system Museo Civico
+# Repository UI Kit Museo Civico
 
 La repository ospita la versione Sketch del [sito web del Museo Civico di Siena](https://museocivico.comune.siena.it/)
 
@@ -43,4 +43,4 @@ Il kit è un progetto aperto e in continua evoluzione non solo per i componenti 
 
 Vuoi segnalare un bug o fare una richiesta?
 
-Scrivici a info@cantierecreativo.net(mailto:info@cantierecreativo.net).
+Scrivici a info@cantierecreativo.net.
