@@ -12,7 +12,7 @@ Lo UI Kit è una libreria di stili (colori, tipografia, griglie) e componenti (b
 
 :eyes: Se vuoi vedere tutti gli assets prima di scaricarli, puoi andare al progetto:
 
-- su [Figma](https://www.figma.com/file/bLexfydXWzF6ACxFokgzXs/italia-UI-Kit-2.0?node-id=0%3A1)
+- su [Figma](https://www.figma.com/file/bEA0rAPc4h2sccZOeh6Vu1/Museo-Civico---Kit-UI?node-id=801%3A4919)
 
 :dart: L’obiettivo è quello di migliorare l’user experience dei servizi digitali della pubblica amministrazione italiana attraverso la diffusione di uno stile consistente e coerente.
 
@@ -20,9 +20,9 @@ Lo UI Kit è una libreria di stili (colori, tipografia, griglie) e componenti (b
 
 ## :blue_book: Come iniziare
 
-- Il kit è un file Sketch, prima di aprirlo ti consigliamo di scaricare da Google Font il seguente typefaces:[Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin).
+- Il kit è un file Sketch, prima di aprirlo ti consigliamo di scaricare da Google Font il seguente typefaces: [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin).
 - Potete inoltre utilizzare il font [Miller Banner](https://github.com/ComuneDiSiena/UI-Kit/tree/main/fonts) soggetto a copyright. Per utilizzarlo potete acquistare la licenza al seguente link su [myfonts.com](https://www.myfonts.com/collections/miller-banner-font-carter-and-cone-type?tab=licensing)
-- Nel repo trovi il file _UI Kit - Museo Civico.sketch_ che include componenti e stili in un unico file.
+- Nel repo trovi il file [_UI Kit - Museo Civico.sketch_](https://github.com/ComuneDiSiena/UI-Kit/blob/main/UI%20Kit%20-%20Museo%20Civico.sketch) che include componenti e stili in un unico file.
 
 - Per aprire il Kit correttamente assicurati di avere l'ultima versione di Sketch.
   Per utilizzare lo UI Kit all'interno del tuo progetto puoi caricarlo direttamente come _library_ di Sketch.
